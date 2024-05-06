@@ -1,1 +1,116 @@
-# 42_Cursus
+<div align="center">
+  <h1><img src="https://i.imgur.com/7T1JTwe.png" width="25" height="25"> rkutun's 42 projects </h1>
+</div>
+
+<table width="100%" align="center">
+  <tr style="display:flex; justify-content:space-around; paddind:0;">
+  <td colspan="2" style="padding:0; margin:0; text-align:center;">
+	  <p align="center">42 SCHOOL CURSES</p>
+  </td></tr>
+
+  <tr style="display:flex; justify-content:space-around; paddind:0;">
+    <div align="center">
+      <td style="padding:0; margin:0;">
+
+  | Proje                             | Durum                                     |
+  | :-                                | :-                                        |
+  | [Libft][libft_link]               | [![libft_badge]][libft_link]              |
+  | [get_next_line][gnl_link]         | [![gnl_badge]][gnl_link]                  |
+  | [ft_printf][printf_link]          | [![printf_badge]][printf_link]            |
+  | [Born2beroot][born2beroot_link]   | [![born2beroot_badge]][born2beroot_link]  |
+
+  </td><td style="padding:0; margin:0;">
+
+  | Proje                             | Durum                                     |
+  | :-                                | :-                                        |
+  | [so_long][so_long_link]           | [![so_long_badge]][so_long_link]          |
+  | [minitalk][minitalk_link]         | [![minitalk_badge]][minitalk_link]        |
+  | [push_swap][push_swap_link]       | [![push_swap_badge]][push_swap_link]      |
+  | [Exam Rank 02][exam_rank02_link]  | [![exam_rank02_badge]][exam_rank02_link]  |
+
+  </td>
+    </div>
+      </tr>
+
+
+  <tr style="display:flex; justify-content:space-around; paddind:0;">
+  <td colspan="2" style="padding:0; margin:0; text-align:center;">
+
+    
+| Proje                             | Durum                                     |
+| :-                                | :-                                        |
+| [Philosophers][philo_link]        | [![philo_badge]][philo_link]              |
+| [minishell][minishell_link]       | [![minishell_badge]][minishell_link]      |
+| [Exam Rank 03][exam_rank03_link]  | [![exam_rank03_badge]][exam_rank03_link]  |
+
+  </td>
+
+  
+<tr style="display:flex; justify-content:space-around; paddind:0;">
+  <div align="center">
+    <td style="padding:0; margin:0;">
+
+  | Proje                             | Durum                                     |
+  | :-                                | :-                                        |
+  | [NetPractice][net_practice_link]  | [![net_practice_badge]][net_practice_link]|
+  | [cub3d][cub3d_link]               | [![cub3d_badge]][cub3d_link]              |
+  | [CPP Modules][cpp_modules_link]   | [![cpp_modules_badge]][cpp_modules_link]  |
+  | [Exam Rank 04][exam_rank04_link]  | [![exam_rank04_badge]][exam_rank04_link]  |
+
+  </td><td style="padding:0; margin:0;">
+    
+  | Proje                             | Durum                                     |
+  | :-                                | :-                                        |
+  | [Inception][net_practice_link]    | [![net_practice_badge]][net_practice_link]|
+  | [ft_irc / webserv][cub3d_link]    | [![cub3d_badge]][cub3d_link]              |
+  | [CPP Modules 2][cpp_modules_link] | [![cpp_modules_badge]][cpp_modules_link]  |
+  | [Exam Rank 05][exam_rank04_link]  | [![exam_rank04_badge]][exam_rank04_link]  |
+
+</td>
+</div>
+</tr>
+
+[libft_link]: <>
+[libft_badge]: https://custom-icon-badges.demolab.com/badge/%E2%9C%93%EF%B8%8E%20125%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
+[gnl_link]: <>
+[gnl_badge]: https://custom-icon-badges.demolab.com/badge/%E2%9C%93%EF%B8%8E%20125%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
+[printf_link]: <>
+[printf_badge]: https://custom-icon-badges.demolab.com/badge/%E2%9C%93%EF%B8%8E%20100%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
+[born2beroot_link]: <>
+[born2beroot_badge]: https://custom-icon-badges.demolab.com/badge/%E2%9C%93%EF%B8%8E%2080%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
+
+[so_long_link]: <>
+[so_long_badge]: https://custom-icon-badges.demolab.com/badge/%E2%9C%93%EF%B8%8E%20100%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
+[push_swap_link]: <>
+[push_swap_badge]: https://custom-icon-badges.demolab.com/badge/%E2%9C%93%EF%B8%8E%20125%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
+[minitalk_link]: <>
+[minitalk_badge]: https://custom-icon-badges.demolab.com/badge/%E2%9C%93%EF%B8%8E%20115%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
+[exam_rank02_link]: <>
+[exam_rank02_badge]: https://custom-icon-badges.demolab.com/badge/%E2%9C%94%EF%B8%8E%20100%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
+
+[philo_link]: <>
+[philo_badge]: https://custom-icon-badges.demolab.com/badge/%E2%9C%94%EF%B8%8E%20100%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
+[minishell_link]: <>
+[minishell_badge]: https://custom-icon-badges.demolab.com/badge/not%20defined-02b331.svg?&style=for-the-badge&color=c42404
+[exam_rank03_link]: <>
+[exam_rank03_badge]: https://custom-icon-badges.demolab.com/badge/%E2%9C%94%EF%B8%8E%20100%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
+
+[net_practice_link]: <>
+[net_practice_badge]: https://custom-icon-badges.demolab.com/badge/not%20defined-02b331.svg?&style=for-the-badge&color=c42404
+[cub3d_link]: <>
+[cub3d_badge]: https://custom-icon-badges.demolab.com/badge/not%20defined-02b331.svg?&style=for-the-badge&color=c42404
+[cpp_modules_link]: <>
+[cpp_modules_badge]: https://custom-icon-badges.demolab.com/badge/not%20defined-02b331.svg?&style=for-the-badge&color=c42404
+[exam_rank04_link]: <>
+[exam_rank04_badge]: https://custom-icon-badges.demolab.com/badge/not%20defined-02b331.svg?&style=for-the-badge&color=c42404
+
+[cpp_modules_2_link]: <>
+[cpp_modules_2_badge]: https://custom-icon-badges.demolab.com/badge/not%20defined-02b331.svg?&style=for-the-badge&color=c42404
+[inception_link]: <>
+[inception_badge]: https://custom-icon-badges.demolab.com/badge/not%20defined-02b331.svg?&style=for-the-badge&color=c42404
+[ft_irc_link]: <>
+[ft_irc_badge]: https://custom-icon-badges.demolab.com/badge/not%20defined-02b331.svg?&style=for-the-badge&color=c42404
+[exam_rank05_link]: <>
+[exam_rank05_badge]: https://custom-icon-badges.demolab.com/badge/not%20defined-02b331.svg?&style=for-the-badge&color=c42404
+
+</table>
