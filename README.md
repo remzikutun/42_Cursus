@@ -2,26 +2,25 @@
   <h1><img src="https://i.imgur.com/7T1JTwe.png" width="25" height="25"> rkutun's 42 projects </h1>
 </div>
 
-<table width="100%" align="center">
+<table width="100%" align="center" border="20">
   <tr style="display:flex; justify-content:space-around; paddind:0;">
   <td colspan="2" style="padding:0; margin:0; text-align:center;">
 	  <p align="center">42 SCHOOL CURSES</p>
   </td></tr>
 
-  <tr style="display:flex; justify-content:space-around; paddind:0;">
-    <div align="center">
-      <td style="padding:0; margin:0;">
+  <tr>
+  <td>
 
-  | Proje                             | Durum                                     |
+  | Project                           | Status                                    |
   | :-                                | :-                                        |
   | [Libft][libft_link]               | [![libft_badge]][libft_link]              |
   | [get_next_line][gnl_link]         | [![gnl_badge]][gnl_link]                  |
   | [ft_printf][printf_link]          | [![printf_badge]][printf_link]            |
   | [Born2beroot][born2beroot_link]   | [![born2beroot_badge]][born2beroot_link]  |
 
-  </td><td style="padding:0; margin:0;">
+  </td><td>
 
-  | Proje                             | Durum                                     |
+  | Proje                             | Status                                    |
   | :-                                | :-                                        |
   | [so_long][so_long_link]           | [![so_long_badge]][so_long_link]          |
   | [minitalk][minitalk_link]         | [![minitalk_badge]][minitalk_link]        |
@@ -29,37 +28,36 @@
   | [Exam Rank 02][exam_rank02_link]  | [![exam_rank02_badge]][exam_rank02_link]  |
 
   </td>
-    </div>
-      </tr>
+  </tr>
 
 
-  <tr style="display:flex; justify-content:space-around; paddind:0;">
-  <td colspan="2" style="padding:0; margin:0; text-align:center;">
 
+<td colspan="2">
+<div align="center"><br>
     
-| Proje                             | Durum                                     |
+| Project                           | Status                                    |
 | :-                                | :-                                        |
 | [Philosophers][philo_link]        | [![philo_badge]][philo_link]              |
 | [minishell][minishell_link]       | [![minishell_badge]][minishell_link]      |
 | [Exam Rank 03][exam_rank03_link]  | [![exam_rank03_badge]][exam_rank03_link]  |
-
+</br>
+</div>
   </td>
 
   
-<tr style="display:flex; justify-content:space-around; paddind:0;">
-  <div align="center">
-    <td style="padding:0; margin:0;">
+<tr>
+    <td>
 
-  | Proje                             | Durum                                     |
+  | Project                           | Status                                    |
   | :-                                | :-                                        |
   | [NetPractice][net_practice_link]  | [![net_practice_badge]][net_practice_link]|
   | [cub3d][cub3d_link]               | [![cub3d_badge]][cub3d_link]              |
   | [CPP Modules][cpp_modules_link]   | [![cpp_modules_badge]][cpp_modules_link]  |
   | [Exam Rank 04][exam_rank04_link]  | [![exam_rank04_badge]][exam_rank04_link]  |
 
-  </td><td style="padding:0; margin:0;">
+  </td><td>
     
-  | Proje                             | Durum                                     |
+  | Project                           | Status                                    |
   | :-                                | :-                                        |
   | [Inception][net_practice_link]    | [![net_practice_badge]][net_practice_link]|
   | [ft_irc / webserv][cub3d_link]    | [![cub3d_badge]][cub3d_link]              |
@@ -67,7 +65,6 @@
   | [Exam Rank 05][exam_rank04_link]  | [![exam_rank04_badge]][exam_rank04_link]  |
 
 </td>
-</div>
 </tr>
 
 [libft_link]: <>
