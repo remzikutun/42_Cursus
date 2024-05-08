@@ -69,27 +69,27 @@
 
 [libft_link]: https://github.com/remzikutun/42_Cursus/tree/Libft
 [libft_badge]: https://custom-icon-badges.demolab.com/badge/%E2%9C%93%EF%B8%8E%20125%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
-[gnl_link]: <>
+[gnl_link]: https://github.com/remzikutun/42_Cursus/tree/get_next_line
 [gnl_badge]: https://custom-icon-badges.demolab.com/badge/%E2%9C%93%EF%B8%8E%20125%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
 [printf_link]: https://github.com/remzikutun/42_Cursus/tree/ft_printf
 [printf_badge]: https://custom-icon-badges.demolab.com/badge/%E2%9C%93%EF%B8%8E%20100%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
-[born2beroot_link]: <>
+[born2beroot_link]: https://github.com/remzikutun/42_Cursus/tree/born2beroot
 [born2beroot_badge]: https://custom-icon-badges.demolab.com/badge/%E2%9C%93%EF%B8%8E%2080%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
 
-[so_long_link]: <>
+[so_long_link]: https://github.com/remzikutun/42_Cursus/tree/so_long
 [so_long_badge]: https://custom-icon-badges.demolab.com/badge/%E2%9C%93%EF%B8%8E%20100%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
-[push_swap_link]: <>
+[push_swap_link]: https://github.com/remzikutun/42_Cursus/tree/push_swap
 [push_swap_badge]: https://custom-icon-badges.demolab.com/badge/%E2%9C%93%EF%B8%8E%20125%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
-[minitalk_link]: <>
+[minitalk_link]: https://github.com/remzikutun/42_Cursus/tree/minitalk
 [minitalk_badge]: https://custom-icon-badges.demolab.com/badge/%E2%9C%93%EF%B8%8E%20115%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
-[exam_rank02_link]: <>
+[exam_rank02_link]: https://github.com/remzikutun/42_Cursus/tree/exam_rank02
 [exam_rank02_badge]: https://custom-icon-badges.demolab.com/badge/%E2%9C%94%EF%B8%8E%20100%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
 
-[philo_link]: <>
+[philo_link]: https://github.com/remzikutun/42_Cursus/tree/philosophers
 [philo_badge]: https://custom-icon-badges.demolab.com/badge/%E2%9C%94%EF%B8%8E%20100%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
-[minishell_link]: <>
+[minishell_link]: https://github.com/remzikutun/42_Cursus/tree/minishell
 [minishell_badge]: https://custom-icon-badges.demolab.com/badge/not%20defined-02b331.svg?&style=for-the-badge&color=c42404
-[exam_rank03_link]: <>
+[exam_rank03_link]: https://github.com/remzikutun/42_Cursus/tree/exam_rank03
 [exam_rank03_badge]: https://custom-icon-badges.demolab.com/badge/%E2%9C%94%EF%B8%8E%20100%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
 
 [net_practice_link]: <>
