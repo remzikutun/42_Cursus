@@ -67,7 +67,7 @@
 </td>
 </tr>
 
-[libft_link]: <>
+[libft_link]: https://github.com/remzikutun/42_Cursus/tree/Libft
 [libft_badge]: https://custom-icon-badges.demolab.com/badge/%E2%9C%93%EF%B8%8E%20125%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
 [gnl_link]: <>
 [gnl_badge]: https://custom-icon-badges.demolab.com/badge/%E2%9C%93%EF%B8%8E%20125%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
