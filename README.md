@@ -92,22 +92,22 @@
 [exam_rank03_link]: https://github.com/remzikutun/42_Cursus/tree/exam_rank03
 [exam_rank03_badge]: https://custom-icon-badges.demolab.com/badge/%E2%9C%94%EF%B8%8E%20100%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
 
-[net_practice_link]: <>
+[net_practice_link]: https://github.com/remzikutun/42_Cursus/tree/NetPractice
 [net_practice_badge]: https://custom-icon-badges.demolab.com/badge/not%20defined-02b331.svg?&style=for-the-badge&color=c42404
-[cub3d_link]: <>
+[cub3d_link]: https://github.com/remzikutun/42_Cursus/tree/cub3d
 [cub3d_badge]: https://custom-icon-badges.demolab.com/badge/not%20defined-02b331.svg?&style=for-the-badge&color=c42404
-[cpp_modules_link]: <>
+[cpp_modules_link]: (https://github.com/remzikutun/42_Cursus/tree/CPP-Modules)
 [cpp_modules_badge]: https://custom-icon-badges.demolab.com/badge/not%20defined-02b331.svg?&style=for-the-badge&color=c42404
-[exam_rank04_link]: <>
+[exam_rank04_link]: https://github.com/remzikutun/42_Cursus/tree/Exam-Rank-04
 [exam_rank04_badge]: https://custom-icon-badges.demolab.com/badge/not%20defined-02b331.svg?&style=for-the-badge&color=c42404
 
-[cpp_modules_2_link]: <>
+[cpp_modules_2_link]: https://github.com/remzikutun/42_Cursus/tree/CPP-Modules-2
 [cpp_modules_2_badge]: https://custom-icon-badges.demolab.com/badge/not%20defined-02b331.svg?&style=for-the-badge&color=c42404
-[inception_link]: <>
+[inception_link]: https://github.com/remzikutun/42_Cursus/tree/Inception
 [inception_badge]: https://custom-icon-badges.demolab.com/badge/not%20defined-02b331.svg?&style=for-the-badge&color=c42404
-[ft_irc_link]: <>
+[ft_irc_link]: https://github.com/remzikutun/42_Cursus/tree/ft_irc-/-webserv
 [ft_irc_badge]: https://custom-icon-badges.demolab.com/badge/not%20defined-02b331.svg?&style=for-the-badge&color=c42404
-[exam_rank05_link]: <>
+[exam_rank05_link]: https://github.com/remzikutun/42_Cursus/tree/Exam-Rank-05
 [exam_rank05_badge]: https://custom-icon-badges.demolab.com/badge/not%20defined-02b331.svg?&style=for-the-badge&color=c42404
 
 </table>
