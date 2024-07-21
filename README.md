@@ -14,17 +14,17 @@
   | Project                           | Status                                    |
   | :-                                | :-                                        |
   | [Libft][libft_link]               | [![libft_badge]][libft_link]              |
-  | [get_next_line][gnl_link]         | [![gnl_badge]][gnl_link]                  |
-  | [ft_printf][printf_link]          | [![printf_badge]][printf_link]            |
-  | [Born2beroot][born2beroot_link]   | [![born2beroot_badge]][born2beroot_link]  |
+  | [Get_Next_Line][gnl_link]         | [![gnl_badge]][gnl_link]                  |
+  | [Printf][printf_link]             | [![printf_badge]][printf_link]            |
+  | [Born2beRoot][born2beroot_link]   | [![born2beroot_badge]][born2beroot_link]  |
 
   </td><td>
 
   | Proje                             | Status                                    |
   | :-                                | :-                                        |
-  | [so_long][so_long_link]           | [![so_long_badge]][so_long_link]          |
-  | [minitalk][minitalk_link]         | [![minitalk_badge]][minitalk_link]        |
-  | [push_swap][push_swap_link]       | [![push_swap_badge]][push_swap_link]      |
+  | [So_Long][so_long_link]           | [![so_long_badge]][so_long_link]          |
+  | [Minitalk][minitalk_link]         | [![minitalk_badge]][minitalk_link]        |
+  | [Push_swap][push_swap_link]       | [![push_swap_badge]][push_swap_link]      |
   | [Exam Rank 02][exam_rank02_link]  | [![exam_rank02_badge]][exam_rank02_link]  |
 
   </td>
@@ -38,7 +38,7 @@
 | Project                           | Status                                    |
 | :-                                | :-                                        |
 | [Philosophers][philo_link]        | [![philo_badge]][philo_link]              |
-| [minishell][minishell_link]       | [![minishell_badge]][minishell_link]      |
+| [Minishell][minishell_link]       | [![minishell_badge]][minishell_link]      |
 | [Exam Rank 03][exam_rank03_link]  | [![exam_rank03_badge]][exam_rank03_link]  |
 </br>
 </div>
@@ -51,18 +51,18 @@
   | Project                           | Status                                    |
   | :-                                | :-                                        |
   | [NetPractice][net_practice_link]  | [![net_practice_badge]][net_practice_link]|
-  | [cub3d][cub3d_link]               | [![cub3d_badge]][cub3d_link]              |
+  | [Cub 3D][cub3d_link]               | [![cub3d_badge]][cub3d_link]              |
   | [CPP Modules][cpp_modules_link]   | [![cpp_modules_badge]][cpp_modules_link]  |
   | [Exam Rank 04][exam_rank04_link]  | [![exam_rank04_badge]][exam_rank04_link]  |
 
   </td><td>
     
-  | Project                             | Status                                    |
-  | :-                                  | :-                                        |
-  | [Inception][inception_link]         | [![inception_badge]][inception_badge]|
-  | [ft_irc / webserv][ft_irc_link]     | [![cub3d_badge]][cub3d_link]              |
-  | [CPP Modules 2][cpp_modules_2_link] | [![cpp_modules_badge]][cpp_modules_link]  |
-  | [Exam Rank 05][exam_rank05_link]    | [![exam_rank04_badge]][exam_rank04_link]  |
+  | Project                             | Status                                        |
+  | :-                                  | :-                                            |
+  | [Inception][inception_link]         | [![inception_badge]][inception_link]	        |
+  | [Ft_irc / Webserv][ft_irc_link]     | [![ft_irc_badge]][ft_irc_link]                |
+  | [CPP Modules 2][cpp_modules_2_link] | [![cpp_modules_2_badge]][cpp_modules_2_link]  |
+  | [Exam Rank 05][exam_rank05_link]    | [![exam_rank05_badge]][exam_rank05_link]      |
 
 </td>
 </tr>
