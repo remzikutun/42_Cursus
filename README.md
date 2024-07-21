@@ -50,7 +50,7 @@
 
   | Project                           | Status                                    |
   | :-                                | :-                                        |
-  | [NetPractice][net_practice_link]  | [![net_practice_badge]][net_practice_link]|
+  | [Net Practice][net_practice_link]  | [![net_practice_badge]][net_practice_link]|
   | [Cub 3D][cub3d_link]               | [![cub3d_badge]][cub3d_link]              |
   | [CPP Modules][cpp_modules_link]   | [![cpp_modules_badge]][cpp_modules_link]  |
   | [Exam Rank 04][exam_rank04_link]  | [![exam_rank04_badge]][exam_rank04_link]  |
