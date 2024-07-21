@@ -14,7 +14,7 @@
   | Project                           | Status                                    |
   | :-                                | :-                                        |
   | [Libft][libft_link]               | [![libft_badge]][libft_link]              |
-  | [Get_Next_Line][gnl_link]         | [![gnl_badge]][gnl_link]                  |
+  | [Get Next Line][gnl_link]         | [![gnl_badge]][gnl_link]                  |
   | [Printf][printf_link]             | [![printf_badge]][printf_link]            |
   | [Born2beRoot][born2beroot_link]   | [![born2beroot_badge]][born2beroot_link]  |
 
@@ -22,9 +22,9 @@
 
   | Proje                             | Status                                    |
   | :-                                | :-                                        |
-  | [So_Long][so_long_link]           | [![so_long_badge]][so_long_link]          |
+  | [So Long][so_long_link]           | [![so_long_badge]][so_long_link]          |
   | [Minitalk][minitalk_link]         | [![minitalk_badge]][minitalk_link]        |
-  | [Push_swap][push_swap_link]       | [![push_swap_badge]][push_swap_link]      |
+  | [Push swap][push_swap_link]       | [![push_swap_badge]][push_swap_link]      |
   | [Exam Rank 02][exam_rank02_link]  | [![exam_rank02_badge]][exam_rank02_link]  |
 
   </td>
@@ -60,7 +60,7 @@
   | Project                             | Status                                        |
   | :-                                  | :-                                            |
   | [Inception][inception_link]         | [![inception_badge]][inception_link]	        |
-  | [Ft_irc / Webserv][ft_irc_link]     | [![ft_irc_badge]][ft_irc_link]                |
+  | [Ft irc / Webserv][ft_irc_link]     | [![ft_irc_badge]][ft_irc_link]                |
   | [CPP Modules 2][cpp_modules_2_link] | [![cpp_modules_2_badge]][cpp_modules_2_link]  |
   | [Exam Rank 05][exam_rank05_link]    | [![exam_rank05_badge]][exam_rank05_link]      |
 
