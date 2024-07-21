@@ -57,12 +57,12 @@
 
   </td><td>
     
-  | Project                           | Status                                    |
-  | :-                                | :-                                        |
-  | [Inception][net_practice_link]    | [![net_practice_badge]][net_practice_link]|
-  | [ft_irc / webserv][cub3d_link]    | [![cub3d_badge]][cub3d_link]              |
-  | [CPP Modules 2][cpp_modules_link] | [![cpp_modules_badge]][cpp_modules_link]  |
-  | [Exam Rank 05][exam_rank04_link]  | [![exam_rank04_badge]][exam_rank04_link]  |
+  | Project                             | Status                                    |
+  | :-                                  | :-                                        |
+  | [Inception][inception_link]         | [![net_practice_badge]][net_practice_link]|
+  | [ft_irc / webserv][ft_irc_link]     | [![cub3d_badge]][cub3d_link]              |
+  | [CPP Modules 2][cpp_modules_2_link] | [![cpp_modules_badge]][cpp_modules_link]  |
+  | [Exam Rank 05][exam_rank05_link]    | [![exam_rank04_badge]][exam_rank04_link]  |
 
 </td>
 </tr>
