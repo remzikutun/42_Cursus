@@ -96,7 +96,7 @@
 [net_practice_badge]: https://custom-icon-badges.demolab.com/badge/not%20defined-02b331.svg?&style=for-the-badge&color=c42404
 [cub3d_link]: https://github.com/remzikutun/42_Cursus/tree/cub3d
 [cub3d_badge]: https://custom-icon-badges.demolab.com/badge/not%20defined-02b331.svg?&style=for-the-badge&color=c42404
-[cpp_modules_link]: (https://github.com/remzikutun/42_Cursus/tree/CPP-Modules)
+[cpp_modules_link]: https://github.com/remzikutun/42_Cursus/tree/CPP-Modules
 [cpp_modules_badge]: https://custom-icon-badges.demolab.com/badge/not%20defined-02b331.svg?&style=for-the-badge&color=c42404
 [exam_rank04_link]: https://github.com/remzikutun/42_Cursus/tree/Exam-Rank-04
 [exam_rank04_badge]: https://custom-icon-badges.demolab.com/badge/not%20defined-02b331.svg?&style=for-the-badge&color=c42404
