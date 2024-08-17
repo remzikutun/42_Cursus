@@ -17,6 +17,8 @@
 
 ## TCP
 
+### TCP Transport Layer/Transfer Katmanı
+
 <p>&nbsp;&nbsp;&nbsp;&nbsp;TCP (Transmission Control Protocol), veri iletimi sırasında güvenliği ve doğruluğu sağlamak için kullanılan bir iletişim protokolüdür. TCP, veriyi küçük parçalara (segmentlere) böler, bu parçaları sırayla gönderir ve alıcıya ulaştığında doğru sırada ve eksiksiz olup olmadığını kontrol eder. Eğer bir parça kaybolur veya hatalı olursa, TCP o parçayı yeniden gönderir. Bu sayede veri, alıcıya eksiksiz ve hatasız bir şekilde ulaşır.</p>
 
 ## IP
