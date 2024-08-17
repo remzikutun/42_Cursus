@@ -16,7 +16,7 @@
 5. [Router](#Router)
 
 ## TCP
-Burada Giriş bilgisi...
+
 
 ## IP
 Burada Kurulum bilgisi...
