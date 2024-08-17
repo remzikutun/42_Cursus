@@ -19,7 +19,7 @@
 
 ### TCP Transport Layer/Transfer Katmanı
 
-<div style="text-align: center;">
+<div align=center">
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*322lRmlTQQDJR4DBWbYAZg.png" width="500" height="200">
 </div>
 
