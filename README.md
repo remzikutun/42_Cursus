@@ -6,7 +6,7 @@
 ## İçindekiler
 1. [TCP](1.TCP)
 2. [IP](2.IP)
-3. [Subnet Mask](3.Subnet Mask)
+3. [Subnet Mask](3.SubnetMask)
 4. [Switch](3.Switch)
 5. [Router](4.Router)
 
