@@ -25,6 +25,10 @@
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;TCP (Transmission Control Protocol), veri iletimi sırasında güvenliği ve doğruluğu sağlamak için kullanılan bir iletişim protokolüdür. TCP, veriyi küçük parçalara (segmentlere) böler, bu parçaları sırayla gönderir ve alıcıya ulaştığında doğru sırada ve eksiksiz olup olmadığını kontrol eder. Eğer bir parça kaybolur veya hatalı olursa, TCP o parçayı yeniden gönderir. Bu sayede veri, alıcıya eksiksiz ve hatasız bir şekilde ulaşır.</p>
 
+<p align="center">
+  <img src="https://www.educationcyber.com/wp-content/uploads/2020/02/protokola.fw_-1-768x538.png" alt="Image" />
+</p>
+
 ## IP
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;IP (Internet Protocol), internet veya bir ağ üzerindeki cihazlar arasında veri iletimini sağlayan bir protokoldür. IP, her cihaza benzersiz bir IP adresi atayarak verilerin doğru hedefe ulaşmasını sağlar. Bu adresleme sistemi, cihazların birbiriyle iletişim kurmasına ve veri alışverişi yapmasına olanak tanır. IP'nin iki ana versiyonu vardır: IPv4 ve IPv6.</p>
