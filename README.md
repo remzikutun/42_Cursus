@@ -3,7 +3,7 @@
   <h1>42 CURSUS PROJECT NETPRACTİCE</h1>
 </div>
 
-### İçindekiler
+# İçindekiler
 
 1. [TCP](#TCP)
 2. [IP](#IP)
