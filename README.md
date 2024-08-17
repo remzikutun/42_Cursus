@@ -2,3 +2,4 @@
 <div align="center">
   <h1>42 CURSUS PROJECT NETPRACTİCE</h1>
 </div>
+<h1>IP Nedir ?</h1>
