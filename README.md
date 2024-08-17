@@ -3,35 +3,40 @@
   <h1>42 CURSUS PROJECT NETPRACTİCE</h1>
 </div>
 
-1. [Giriş](#giriş)
-2. [Kurulum](#kurulum)
-   - [Gereksinimler](#gereksinimler)
-   - [Adımlar](#adımlar)
-3. [Kullanım](#kullanım)
-   - [Örnekler](#örnekler)
-4. [Katkıda Bulunma](#katkıda-bulunma)
-5. [Lisans](#lisans)
+1. [TCP](#TCP)
+2. [IP](#IP)
+   - [IPv4](#IPv4)
+   - [IPv6](#IPv6)
+3. [Subnet Mask](#SubnetMask)
+   - [CIDR](#CIDR)
+   - [Network](#Network)
+4. [Switch](#Switch)
+5. [Router](#Router)
 
-## Giriş
+## TCP
 Burada Giriş bilgisi...
 
-## Kurulum
+## IP
 Burada Kurulum bilgisi...
 
-### Gereksinimler
+### IPv4
 Burada Gereksinimler bilgisi...
 
-### Adımlar
+### IPv6
 Burada Adımlar bilgisi...
 
-## Kullanım
+## Subnet Mask
 Burada Kullanım bilgisi...
 
-### Örnekler
+### CIDR
 Burada Örnekler bilgisi...
 
-## Katkıda Bulunma
+### Network
+Burada Örnekler bilgisi...
+
+## Switch
 Burada Katkıda Bulunma bilgisi...
 
-## Lisans
-Burada Lisans bilgisi...
+## Router
+Burada Katkıda Bulunma bilgisi...
+
