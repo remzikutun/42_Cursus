@@ -8,5 +8,5 @@
 <text> → Mask, bir IP adresini ağ ve cihaz kısmına ayıran bir değerdir. Bu, aynı ağdaki cihazları belirlemek için kullanılır. Örneğin, 255.255.255.0 gibi bir subnet mask, IP adresindeki ilk üç okteti (192.168.1) ağ kısmı olarak tanımlar, son oktet ise cihazı temsil eder. Bu sayede hangi cihazların aynı ağda olduğunu belirler.</text>
 <h3>TCP / IP Nedir ?</h3>
 <p> → TCP/IP, internet üzerindeki veri iletişimini yöneten bir protokol kümesidir. İki ana bileşeni vardır;</p>
-<p>&nbsp;1. TCP (Transmission Control Protocol): Verilerin güvenli bir şekilde, doğru sırayla ve eksiksiz iletilmesini sağlar.</p>
-<p>&nbsp;2. IP (Internet Protocol) : Verilerin hangi yoldan ve hangi adrese gönderileceğini belirler.</p>
+<p>&nbsp;&nbsp;1. TCP (Transmission Control Protocol): Verilerin güvenli bir şekilde, doğru sırayla ve eksiksiz iletilmesini sağlar.</p>
+<p>&nbsp;&nbsp;2. IP (Internet Protocol) : Verilerin hangi yoldan ve hangi adrese gönderileceğini belirler.</p>
