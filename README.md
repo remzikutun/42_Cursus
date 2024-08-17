@@ -9,6 +9,6 @@ xxxx<img src="https://i.imgur.com/TvlDmPS.png" width="1500" height="150">
 <h3>TCP / IP Nedir ?</h3>
 <p> → TCP/IP, internet üzerindeki veri iletişimini yöneten bir protokol kümesidir. İki ana bileşeni vardır;</p>
 <pre>
-<p>1. TCP (Transmission Control Protocol): Verilerin güvenli bir şekilde, doğru sırayla ve eksiksiz iletilmesini sağlar.</p>
-<p>2. IP (Internet Protocol) : Verilerin hangi yoldan ve hangi adrese gönderileceğini belirler.</p>
+1. TCP (Transmission Control Protocol): Verilerin güvenli bir şekilde, doğru sırayla ve eksiksiz iletilmesini sağlar.
+2. IP (Internet Protocol) : Verilerin hangi yoldan ve hangi adrese gönderileceğini belirler.
 </pre>
