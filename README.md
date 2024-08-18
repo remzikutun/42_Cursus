@@ -74,8 +74,30 @@ CIDR formatında, bir IP adresi ve onun ardından gelen bir eğik çizgi ile bel
 <p>Network, iki veya daha fazla cihazın (bilgisayarlar, sunucular, telefonlar vb.) birbirine bağlanarak veri paylaşımı ve iletişim sağladığı bir sistemdir. Bu cihazlar, kablolu (ethernet) veya kablosuz (Wi-Fi) bağlantılar aracılığıyla iletişim kurabilir. Ağlar, yerel alan ağları (LAN), geniş alan ağları (WAN) gibi farklı ölçeklerde olabilir. Network, cihazların veri paylaşımını, internet erişimini, dosya transferini ve daha pek çok iletişim türünü mümkün kılar.</p>
 
 ## Switch
-Burada Katkıda Bulunma bilgisi...
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lpaube/NetPractice/main/img/switch1.png" />
+</p>
+
+Ağ anahtarı (switch), bilgisayar ağlarında veri paketlerini cihazlar arasında yönlendiren bir ağ cihazıdır.
+
+Veri Yönlendirme: Switch, ağa bağlı cihazlardan gelen veri paketlerini alır ve bu paketleri doğru hedef cihaza yönlendirir. Her cihazın ağda bir MAC adresi vardır, switch bu adresleri kullanarak veriyi doğru şekilde yönlendirir.
+
+Portlar: Switch üzerinde birden fazla port bulunur. Her port, bir cihaza bağlanabilir ve bu sayede switch, birçok cihazın aynı anda iletişim kurmasını sağlar.
+
+Kısacası, ağ anahtarı, ağ trafiğini düzenleyerek verilerin hızlı ve verimli bir şekilde iletilmesini sağlar.
 
 ## Router
-Burada Katkıda Bulunma bilgisi...
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lpaube/NetPractice/main/img/route1.png" />
+</p>
+
+Router, genellikle bir ev ağı ile internet gibi geniş ağlar arasında veri trafiğini yönlendirir. Bir paket geldiğinde, router bu paketi doğru hedefe iletmek için en iyi yolu belirler.
+
+IP Adresleme: Router, ağa bağlı cihazlara IP adresleri atar ve ağ üzerindeki veri paketlerini bu IP adreslerine göre yönlendirir.
+
+NAT (Ağ Adresi Çevirisi): Ev ve küçük ofis ağlarında, router genellikle bir NAT işlevi görür. Bu, bir iç ağdaki cihazların tek bir dış IP adresi üzerinden internet erişimi sağlamasına olanak tanır.
+
+Kablosuz Bağlantı: Çoğu modern router, Wi-Fi desteği sunarak kablosuz cihazların ağa bağlanmasını sağlar.
 
