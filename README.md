@@ -5,15 +5,15 @@
 
 # İçindekiler
 
-1. [TCP](#TCP)
-2. [IP](#IP)
-   - [IPv4](#IPv4)
-   - [IPv6](#IPv6)
-3. [Subnet Mask](#SubnetMask)
-   - [CIDR](#CIDR)
-   - [Network](#Network)
-4. [Switch](#Switch)
-5. [Router](#Router)
+1. [TCP / (İletim Kontrol Protokolü)](#TCP)
+2. [IP / (İnternet Protokolü)](#IP)
+   - [IPv4 / (İnternet Protokolü Version 4)](#IPv4)
+   - [IPv6 / (İnternet Protokolü Version 6)](#IPv6)
+3. [Subnet Mask / (Alt Ağ Maskesi)](#SubnetMask)
+   - [CIDR / (Sınıfsız Etki Alanları Arası Yönlendirme)](#CIDR)
+   - [Network / (Ağ)](#Network)
+4. [Switch / (Ağ Anahtarı)](#Switch)
+5. [Router / (Yönlendirici)](#Router)
 
 ## TCP
 
