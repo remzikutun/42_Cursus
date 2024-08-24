@@ -9,7 +9,7 @@
 2. [IP](#IP)
    - [IPv4](#IPv4)
    - [IPv6](#IPv6)
-3. [Subnet Mask](#SubnetMask)
+3. [SubnetMask](#SubnetMask)
    - [CIDR](#CIDR)
    - [Network](#Network)
 4. [Switch](#Switch)
