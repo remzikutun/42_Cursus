@@ -9,7 +9,7 @@
 2. [IP](#IP)
    - [IPv4](#IPv4)
    - [IPv6](#IPv6)
-3. [SubnetMask](#SubnetMask)
+3. [Subnet Mask](#SubnetMask)
    - [CIDR](#CIDR)
    - [Network](#Network)
 4. [Switch](#Switch)
@@ -47,7 +47,7 @@
 
 <p>IPv6 (Internet Protocol version 6), internet üzerindeki cihazlar arasında veri iletimi için kullanılan ve IPv4'ün yerini alması amaçlanan bir IP adresleme sistemidir. IPv6, 128 bitlik adreslerden oluşur ve bu sayede trilyonlarca benzersiz IP adresi sunar, bu da gelecekteki internet büyümesi için yeterli alan sağlar. IPv6 adresleri, genellikle iki nokta üst üste ile ayrılmış sekiz grup halinde, her grup dört hexadecimal rakam içerir (örneğin, 2001:0db8:85a3:0000:0000:8a2e:0370:7334). IPv6, IPv4'ün sunduğu adreslerin yetersiz kalması nedeniyle geliştirilmiştir.</p>
 
-## Subnet Mask
+## SubnetMask
 
 <p align="center">
   <img src="https://gelecegiyazanlar.turkcell.com.tr/sites/default/files/icerik/net12.png" alt="Image" />
