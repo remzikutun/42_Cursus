@@ -18,7 +18,7 @@
 ## TCP
 
 <p align="center">
-  <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/TCP%20Port.gif" alt="Image" />
+  <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/TCP.gif" alt="Image" />
 </p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;TCP (İletim Kontrol Protokolü) veri iletimi sırasında güvenliği ve doğruluğu sağlar. Veriyi küçük parçalara (segmentlere) böler, bu parçaları sırasıyla gönderir ve alıcıya ulaştığında doğru sırada ve eksiksiz olup olmadığını kontrol eder. Eğer bir parça kaybolur veya hatalı olur ise, TCP o parçayı yeniden gönderir. Bu sayede veri, alıcıya eksiksiz ve hatasız bir şekilde ulaşır.</p>
