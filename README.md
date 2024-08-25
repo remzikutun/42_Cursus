@@ -46,7 +46,7 @@
 ## SubnetMask
 
 <p align="center">
-  <img src="https://gelecegiyazanlar.turkcell.com.tr/sites/default/files/icerik/net12.png" alt="Image" />
+  <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Subnet%20Mask.jpg" alt="Image" />
 </p>
 
 <p>Subnet Mask (Alt Ağ Maskesi), IP adresini ağ kısmı ve cihaz (host) kısmı olarak ayıran bir numaradır. Subnet Mask, ağdaki IP adreslerinin aynı ağda olduğunu belirlemek için kullanılır. Örneğin, bir Subnet Mask 255.255.255.0 ise, bu mask IP adresinin ilk üç oktetini (Örnek: 192.168.1) Ağ adresi olarak tanımlar ve son okteti (Örnek: 1) cihaz adresi olarak bırakır. Bu, ağ trafiğinin doğru şekilde yönlendirilmesini sağlar.</p>
