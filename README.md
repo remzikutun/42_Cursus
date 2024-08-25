@@ -30,7 +30,7 @@
 ### IPv4
 
 <p align="center">
-  <img src="https://brandergroup.net/wp-content/uploads/2022/02/What-is-IPv4-705x397.png" alt="Image" />
+  <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/IPv4.jpg" alt="Image" />
 </p>
 
 <p>IPv4 (İnternet Protokolü Version 4), internet veya bir ağ üzerindeki cihazlar arasında veri iletimi için kullanılan bir IP adresleme sistemidir. IPv4, 32 bitlik adreslerden oluşur ve bu nedenle 4.3 milyar benzersiz IP adresi sunar. IPv4 adresleri nokta ile ayrılan 4 grup halinde rakam içerir.(Örnek: 192.168.1.1)</p>
