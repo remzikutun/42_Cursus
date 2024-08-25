@@ -38,7 +38,7 @@
 ### IPv6
 
 <p align="center">
-  <img src="https://www.beyaz.net/files/elfinder/content_photo/icerik_dosyalari/%C4%B1pv6_nedir.png" alt="Image" />
+  <img src="" alt="Image" />
 </p>
 
 <p>IPv6 (İnternet Protokolü Version 6), internet veya bir ağ üzerindeki cihazlar arasında veri iletimi için kullanılan bir IP adresleme sistemidir. IPv6 128 bitlik adreslerden oluşur ve bu nedenle trilyonlarca benzersiz IP adresi sunar. IPv6 adresleri iki nokta üst üste ile ayrılan 8 grup halinde hexadecimal rakam içerir. (Örnek: 2001:0db8:85a3:0000:0000:8a2e:0370:7334)</p>
