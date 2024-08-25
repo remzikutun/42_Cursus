@@ -62,7 +62,7 @@
 ### Network
 
 <p align="center">
-  <img src="https://resim.zayifakim.com/2020/08/network-cihazlari-750x530.png" />
+  <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Network.jpg" />
 </p>
 
 <p>Network (Ağ), iki veya daha fazla cihazın (Bilgisayarlar, sunucular, telefonlar vb.) birbirine bağlanarak veri paylaşımı ve iletişim sağladığı bir sistemdir. Bu cihazlar kablolu (ethernet) veya kablosuz (Wi-Fi) bağlantılar aracılığı ile iletişim kurabilir. Ağlar, yerel alan ağları (LAN), geniş alan ağları (WAN) gibi farklı ölçeklerde olabilir. Kısacası Network, cihazların veri paylaşımını, internet erişimini, dosya transferini ve daha pek çok iletişim türünü mümkün kılar.</p>
