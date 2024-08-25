@@ -70,7 +70,7 @@
 ## Switch
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lpaube/NetPractice/main/img/switch1.png" />
+  <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Switch.jpg" />
 </p>
 
 <p>Switch (Ağ Anahtarı), bilgisayar ağlarında veri paketlerini cihazlar arasında yönlendiren bir ağ cihazıdır. Ağ Anahtarı, ağ trafiğini düzenleyerek verilerin hızlı ve verimli bir şekilde iletilmesini sağlar.</p>
