@@ -54,7 +54,7 @@
 ### CIDR
 
 <p align="center">
-  <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Subnet%20Mask.jpg" alt="Image" />
+  <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/CIDR.jpg" alt="Image" />
 </p>
 
 <p>CIDR (Sınıfsız Etki Alanları Arası Yönlendirme), IP adreslerini daha esnek ve verimli bir şekilde yönlendirmek ve yönetmek için kullanılan bir yöntemdir. CIDR formatında, bir IP adresi ve onun ardından gelen bir eğik çizgi ile belirtilen bir sayı (Örnek: 192.168.1.0/24) kullanılır. Bu sayı, ağ kısmını belirlemek için kullanılan bit sayısını ifade eder. Örneğin /24 24 bitlik bir ağ maskesini belirtir ve bu da 255.255.255.0 subnet maskesine karşılık gelir.</p>
