@@ -133,7 +133,7 @@
 ### Level1
 
   <details>
-    <summary>Çözüm Fotoğrafı</summary>
+    <summary style="margin-left: 20px;">Çözüm Fotoğrafı</summary>
 
   <p align="center">
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level1.png" />
