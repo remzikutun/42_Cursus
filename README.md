@@ -70,7 +70,7 @@
 
 ## IP
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;IP (İnternet Protokolü) internet veya bir ağ üzerindeki cihazlar arasında veri iletimini sağlar. Her cihaza benzersiz bir IP adresi atayarak verilerin doğru hedefe ulaşmasını sağlar. Bu adresleme sistemi, cihazların birbiriyle iletişim kurmasına ve veri alışverişi yapmasına olanak tanır. IP’nin iki ana versiyonu vardır. Bunlar; IPv4 ve IPv6’dır.</p>
+<p>IP (İnternet Protokolü) internet veya bir ağ üzerindeki cihazlar arasında veri iletimini sağlar. Her cihaza benzersiz bir IP adresi atayarak verilerin doğru hedefe ulaşmasını sağlar. Bu adresleme sistemi, cihazların birbiriyle iletişim kurmasına ve veri alışverişi yapmasına olanak tanır. IP’nin iki ana versiyonu vardır. Bunlar; IPv4 ve IPv6’dır.</p>
 
 ### IPv4
 
@@ -133,7 +133,7 @@
 ### Level1
 
 
-  <details><summary>Çözüm Fotoğrafı</summary></p>
+  <details>&nbsp;&nbsp;&nbsp;&nbsp;<summary>Çözüm Fotoğrafı</summary></p>
 
   <p align="center">
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level1.png" />
