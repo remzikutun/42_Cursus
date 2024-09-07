@@ -9,6 +9,7 @@
 
 2. <details>
    <summary>IP / (İnternet Protokolü)</summary>
+  
    - [IP / (İnternet Protokolü)](#IP)
    - [IPv4 / (İnternet Protokolü Version 4)](#IPv4)
    - [IPv6 / (İnternet Protokolü Version 6)](#IPv6)
