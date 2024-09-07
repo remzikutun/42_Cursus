@@ -37,7 +37,10 @@
   
 </details>
 
-5. [Router / (Yönlendirici)](#Router)
+5. <details>
+   <summary>Router / (Yönlendirici)</summary>
+  
+   - [Router / (Yönlendirici)](#Router)
 
 6. <details>
    <summary>Proje Level Çözümleri</summary>
