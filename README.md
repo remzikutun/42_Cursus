@@ -132,7 +132,8 @@
 
 ### Level1
 
-  <details    >
+<p>
+  <details>
     <summary>Çözüm Fotoğrafı</summary>
 
   <p align="center">
@@ -140,6 +141,7 @@
   </p>
   
   </details>
+</p>
 
 ### Level2
 
