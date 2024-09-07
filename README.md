@@ -134,7 +134,7 @@
 
 
   <details>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;<summary>&nbsp;&nbsp;&nbsp;&nbsp;Çözüm Fotoğrafı</summary></p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;<summary1>&nbsp;&nbsp;&nbsp;&nbsp;Çözüm Fotoğrafı</summary1></p>
 
   <p align="center">
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level1.png" />
