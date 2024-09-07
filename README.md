@@ -211,7 +211,7 @@
   </p>
   </details>
   
-### Level9
+### Level9
 
   <details>
     <summary>Çözüm Fotoğrafı</summary>
