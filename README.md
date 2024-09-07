@@ -5,7 +5,12 @@
 
 # İçindekiler
 
-1. [TCP / (İletim Kontrol Protokolü)](#TCP)
+1. <details>
+  <summary>TCP / (İletim Kontrol Protokolü)</summary>
+
+  - [TCP / (İletim Kontrol Protokolü)](#TCP)
+  
+  </details>
 
 2. <details>
    <summary>IP / (İnternet Protokolü)</summary>
