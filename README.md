@@ -140,85 +140,57 @@
   </p>
   </details>
 
-<details>
-  <summary>Level2</summary>
+### Level2
 
   <p align="center">
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level2.png" />
   </p>
 
-</details>
-
-<details>
-  <summary>Level3</summary>
-
+### Level3
   <p align="center">
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level3.png" />
   </p>
 
-</details>
-
-<details>
-  <summary>Level4</summary>
+### Level4
 
   <p align="center">
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level4.png" />
   </p>
 
-</details>
-
-<details>
-  <summary>Level5</summary>
+### Level5
 
   <p align="center">
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level5.png" />
   </p>
 
-</details>
-
-<details>
-  <summary>Level6</summary>
+### Level6
 
   <p align="center">
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level6.png" />
   </p>
 
-</details>
-
-<details>
-  <summary>Level7</summary>
+### Level7
 
   <p align="center">
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level7.png" />
   </p>
 
-</details>
-
-<details>
-  <summary>Level8</summary>
+### Level8
 
   <p align="center">
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level8.png" />
   </p>
 
-</details>
-
-<details>
-  <summary>Level9</summary>
+### Level9
 
   <p align="center">
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level9.png" />
   </p>
 
-</details>
-
-<details>
-  <summary>Level10</summary>
+### Level10
 
   <p align="center">
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level10.png" />
   </p>
-
-</details>
 
     
