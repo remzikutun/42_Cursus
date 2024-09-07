@@ -8,7 +8,7 @@
 1. <details>
    <summary>TCP / (İletim Kontrol Protokolü)</summary>
 
-  - [TCP / (İletim Kontrol Protokolü)](#TCP)
+    - [TCP / (İletim Kontrol Protokolü)](#TCP)
 
    </details>
    
