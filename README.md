@@ -47,7 +47,7 @@
 6. <details>
    <summary>Proje Level Çözümleri</summary>
 
-   - [Proje Level Çözümleri](##Leveller)
+   - [Proje Level Çözümleri](#Leveller)
    - [Level1](Level1)
    - [Level2](Level2)
    - [Level3](Level3)
