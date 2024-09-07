@@ -5,14 +5,14 @@
 
 # İçindekiler
 
-1.  <details>
+1. <details>
    <summary>TCP / (İletim Kontrol Protokolü)</summary>
 
-    - [TCP / (İletim Kontrol Protokolü)](#TCP)
+  - [TCP / (İletim Kontrol Protokolü)](#TCP)
 
    </details>
    
-2.  <details>
+2. <details>
    <summary>IP / (İnternet Protokolü)</summary>
   
    - [IP / (İnternet Protokolü)](#IP)
@@ -21,7 +21,7 @@
    
    </details>
 
-3.  <details>
+3. <details>
    <summary>Subnet Mask / (Alt Ağ Maskesi)</summary>
 
    - [Subnet Mask / (Alt Ağ Maskesi)](#SubnetMask)
@@ -30,19 +30,11 @@
    
    </details>
 
-4.  <details>
-   <summary>Switch / (Ağ Anahtarı)</summary>
-   
-    - [Switch / (Ağ Anahtarı)](#Switch)
-  
-</details>
+4. [Switch / (Ağ Anahtarı)](#Switch)
 
-5.  <details>
-   <summary>Router / (Yönlendirici)</summary>
-  
-   - [Router / (Yönlendirici)](#Router)
+5. [Router / (Yönlendirici)](#Router)
 
-6.  <details>
+6. <details>
    <summary>Proje Level Çözümleri</summary>
    
    - [Level1](#Level1)
@@ -56,6 +48,7 @@
    - [Level10](#Level10)
    
    </details>
+
 ## TCP
 
 <p align="center">
