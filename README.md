@@ -236,6 +236,7 @@
 
 
 <button onclick="document.getElementById('level1').style.display='block'">Çözüm Fotoğrafı</button>
+
 <div id="level1" style="display:none;">
   <p align="center">
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level1.png" />
