@@ -132,7 +132,7 @@
 
 ### Level1
 
-<p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;
   <details>
     <summary>Çözüm Fotoğrafı</summary>
 
