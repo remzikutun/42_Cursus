@@ -133,8 +133,9 @@
 
 <p align="center">
   <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level1.png" />
-</summary>
 </p>
+
+</details>
 
 ### Level2
 
@@ -190,4 +191,3 @@
   <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level10.png" />
 </p>
 
-</details>
