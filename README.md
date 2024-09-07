@@ -128,93 +128,93 @@
 <p>Switch (Ağ Anahtarı), bilgisayar ağlarında veri paketlerini cihazlar arasında yönlendiren bir ağ cihazıdır. Ağ Anahtarı, ağ trafiğini düzenleyerek verilerin hızlı ve verimli bir şekilde iletilmesini sağlar.</p>
 ## Leveller
 
-    <details>
-      <summary>Level1</summary>
-    
-      <p align="center">
-        <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level1.png" />
-      </p>
-    
-    </details>
-    
-    <details>
-      <summary>Level2</summary>
-    
-      <p align="center">
-        <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level2.png" />
-      </p>
-    
-    </details>
-    
-    <details>
-      <summary>Level3</summary>
-    
-      <p align="center">
-        <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level3.png" />
-      </p>
-    
-    </details>
-    
-    <details>
-      <summary>Level4</summary>
-    
-      <p align="center">
-        <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level4.png" />
-      </p>
-    
-    </details>
-    
-    <details>
-      <summary>Level5</summary>
-    
-      <p align="center">
-        <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level5.png" />
-      </p>
-    
-    </details>
-    
-    <details>
-      <summary>Level6</summary>
-    
-      <p align="center">
-        <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level6.png" />
-      </p>
-    
-    </details>
-    
-    <details>
-      <summary>Level7</summary>
-    
-      <p align="center">
-        <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level7.png" />
-      </p>
-    
-    </details>
-    
-    <details>
-      <summary>Level8</summary>
-    
-      <p align="center">
-        <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level8.png" />
-      </p>
-    
-    </details>
-    
-    <details>
-      <summary>Level9</summary>
-    
-      <p align="center">
-        <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level9.png" />
-      </p>
-    
-    </details>
-    
-    <details>
-      <summary>Level10</summary>
-    
-      <p align="center">
-        <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level10.png" />
-      </p>
-    
-    </details>
+<details>
+  <summary>Level1</summary>
+
+  <p align="center">
+    <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level1.png" />
+  </p>
+
+</details>
+
+<details>
+  <summary>Level2</summary>
+
+  <p align="center">
+    <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level2.png" />
+  </p>
+
+</details>
+
+<details>
+  <summary>Level3</summary>
+
+  <p align="center">
+    <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level3.png" />
+  </p>
+
+</details>
+
+<details>
+  <summary>Level4</summary>
+
+  <p align="center">
+    <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level4.png" />
+  </p>
+
+</details>
+
+<details>
+  <summary>Level5</summary>
+
+  <p align="center">
+    <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level5.png" />
+  </p>
+
+</details>
+
+<details>
+  <summary>Level6</summary>
+
+  <p align="center">
+    <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level6.png" />
+  </p>
+
+</details>
+
+<details>
+  <summary>Level7</summary>
+
+  <p align="center">
+    <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level7.png" />
+  </p>
+
+</details>
+
+<details>
+  <summary>Level8</summary>
+
+  <p align="center">
+    <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level8.png" />
+  </p>
+
+</details>
+
+<details>
+  <summary>Level9</summary>
+
+  <p align="center">
+    <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level9.png" />
+  </p>
+
+</details>
+
+<details>
+  <summary>Level10</summary>
+
+  <p align="center">
+    <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level10.png" />
+  </p>
+
+</details>
     
