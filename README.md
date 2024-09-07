@@ -211,14 +211,31 @@
 
 </details>
 
-  <details>
-    <summary>Level10</summary>
-    
-  ### Level10
-    
+<details>
+  <summary>Level10</summary>
+
   <p align="center">
-        <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level10.png" />
-      </p>
-  
-  </details>
+    <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level10.png" />
+  </p>
+
+</details>
+
+## Proje Level Çözümleri
+
+<details>
+  <summary>Proje Level Çözümleri</summary>
+
+  - [Level1](#level1)
+  - [Level2](#level2)
+  - [Level3](#level3)
+  - [Level4](#level4)
+  - [Level5](#level5)
+  - [Level6](#level6)
+  - [Level7](#level7)
+  - [Level8](#level8)
+  - [Level9](#level9)
+  - [Level10](#level10)
+
+</details>
+
     
