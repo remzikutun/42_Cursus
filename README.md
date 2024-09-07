@@ -155,6 +155,11 @@
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level2.png" />
   </p>
   </details>
+
+  <details><summary>Çözüm Anlatımı</summary>
+
+
+  </details>
   
 ### Level3
 
@@ -164,6 +169,11 @@
   <p align="center">
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level3.png" />
   </p>
+  </details>
+
+  <details><summary>Çözüm Anlatımı</summary>
+
+
   </details>
   
 ### Level4
@@ -175,6 +185,11 @@
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level4.png" />
   </p>
   </details>
+
+  <details><summary>Çözüm Anlatımı</summary>
+
+
+  </details>
   
 ### Level5
 
@@ -184,6 +199,11 @@
   <p align="center">
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level5.png" />
   </p>
+  </details>
+
+  <details><summary>Çözüm Anlatımı</summary>
+
+
   </details>
   
 ### Level6
@@ -195,6 +215,11 @@
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level6.png" />
   </p>
   </details>
+
+  <details><summary>Çözüm Anlatımı</summary>
+
+
+  </details>
   
 ### Level7
 
@@ -204,6 +229,11 @@
   <p align="center">
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level7.png" />
   </p>
+  </details>
+
+  <details><summary>Çözüm Anlatımı</summary>
+
+
   </details>
   
 ### Level8
@@ -215,6 +245,11 @@
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level8.png" />
   </p>
   </details>
+
+  <details><summary>Çözüm Anlatımı</summary>
+
+
+  </details>
   
 ### Level9
 
@@ -224,6 +259,11 @@
   <p align="center">
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level9.png" />
   </p>
+  </details>
+
+  <details><summary>Çözüm Anlatımı</summary>
+
+
   </details>
   
 ### Level10
@@ -236,4 +276,7 @@
   </p>
   </details>
 
-</div>
+  <details><summary>Çözüm Anlatımı</summary>
+
+
+  </details>
