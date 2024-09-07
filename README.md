@@ -46,7 +46,8 @@
 
 6. <details>
    <summary>Proje Level Çözümleri</summary>
-   
+
+   - [Proje Level Çözümleri](##Leveller)
    - [Level1](Level1)
    - [Level2](Level2)
    - [Level3](Level3)
@@ -126,6 +127,7 @@
 </p>
 
 <p>Switch (Ağ Anahtarı), bilgisayar ağlarında veri paketlerini cihazlar arasında yönlendiren bir ağ cihazıdır. Ağ Anahtarı, ağ trafiğini düzenleyerek verilerin hızlı ve verimli bir şekilde iletilmesini sağlar.</p>
+
 ## Leveller
 
 <details>
