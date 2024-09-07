@@ -8,7 +8,7 @@
 1. <details>
    <summary>TCP / (İletim Kontrol Protokolü)</summary>
 
-  - [TCP / (İletim Kontrol Protokolü)](#TCP)
+    - [TCP / (İletim Kontrol Protokolü)](#TCP)
 
    </details>
    
@@ -30,9 +30,19 @@
    
    </details>
 
-4. [Switch / (Ağ Anahtarı)](#Switch)
+4. <details>
+   <summary>Switch / (Ağ Anahtarı)</summary>
 
-5. [Router / (Yönlendirici)](#Router)
+    - [Switch / (Ağ Anahtarı)](#Switch)
+
+   </details>
+
+5. <details>
+   <summary>Router / (Yönlendirici)</summary>
+
+    - [Router / (Yönlendirici)](#Router)
+
+   </details>
 
 6. <details>
    <summary>Proje Level Çözümleri</summary>
