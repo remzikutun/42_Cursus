@@ -224,7 +224,7 @@
 ### Level10
 
   <details>
-    <summary>Çözüm Fotoğrafı</summary>
+    <summary style="padding-left: 20px;">Çözüm Fotoğrafı</summary>
     
   <p align="center">
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level10.png" />
