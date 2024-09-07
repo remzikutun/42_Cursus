@@ -128,13 +128,13 @@
 <p>Switch (Ağ Anahtarı), bilgisayar ağlarında veri paketlerini cihazlar arasında yönlendiren bir ağ cihazıdır. Ağ Anahtarı, ağ trafiğini düzenleyerek verilerin hızlı ve verimli bir şekilde iletilmesini sağlar.</p>
 
 ## Leveller
-<details>
-<summary>### Level1</summary>
+<details><summary>
+### Level1
 
 <p align="center">
   <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level1.png" />
 </p>
-
+</summary>
 </details>
 
 ### Level2
