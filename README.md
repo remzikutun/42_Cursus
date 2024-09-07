@@ -132,8 +132,7 @@
 
 ### Level1
 
-
-  <details>&nbsp;&nbsp;&nbsp;&nbsp;<summary>Çözüm Fotoğrafı</summary></p>
+  <details &nbsp;&nbsp;&nbsp;&nbsp;><summary>Çözüm Fotoğrafı</summary></p>
 
   <p align="center">
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level1.png" />
