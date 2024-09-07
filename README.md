@@ -6,30 +6,15 @@
 # İçindekiler
 
 1. [TCP / (İletim Kontrol Protokolü)](#TCP)
-
-2. <details>
-   <summary>IP / (İnternet Protokolü)</summary>
-   
+2. [IP / (İnternet Protokolü)](#IP)
    - [IPv4 / (İnternet Protokolü Version 4)](#IPv4)
    - [IPv6 / (İnternet Protokolü Version 6)](#IPv6)
-   
-   </details>
-
-3. <details>
-   <summary>Subnet Mask / (Alt Ağ Maskesi)</summary>
-   
+3. [Subnet Mask / (Alt Ağ Maskesi)](#SubnetMask)
    - [CIDR / (Sınıfsız Etki Alanları Arası Yönlendirme)](#CIDR)
    - [Network / (Ağ)](#Network)
-   
-   </details>
-
 4. [Switch / (Ağ Anahtarı)](#Switch)
-
 5. [Router / (Yönlendirici)](#Router)
-
-6. <details>
-   <summary>Proje Level Çözümleri</summary>
-   
+6. [Proje Level Çözümleri](#Leveller)
    - [Level1](#Level1)
    - [Level2](#Level2)
    - [Level3](#Level3)
@@ -39,8 +24,6 @@
    - [Level7](#Level7)
    - [Level9](#Level9)
    - [Level10](#Level10)
-   
-   </details>
 
 ## TCP
 
