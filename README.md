@@ -18,7 +18,8 @@
 
 3. <details>
    <summary>Subnet Mask / (Alt Ağ Maskesi)</summary>
-   
+
+   - [Subnet Mask / (Alt Ağ Maskesi)](#SubnetMask)
    - [CIDR / (Sınıfsız Etki Alanları Arası Yönlendirme)](#CIDR)
    - [Network / (Ağ)](#Network)
    
