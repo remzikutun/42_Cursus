@@ -47,15 +47,15 @@
 6. <details>
    <summary>Proje Level Çözümleri</summary>
    
-   - [Level1](#Level1)
-   - [Level2](#Level2)
-   - [Level3](#Level3)
-   - [Level4](#Level4)
-   - [Level5](#Level5)
-   - [Level6](#Level6)
-   - [Level7](#Level7)
-   - [Level9](#Level9)
-   - [Level10](#Level10)
+   - [Level1](Level1)
+   - [Level2](Level2)
+   - [Level3](Level3)
+   - [Level4](Level4)
+   - [Level5](Level5)
+   - [Level6](Level6)
+   - [Level7](Level7)
+   - [Level9](Level9)
+   - [Level10](Level10)
    
    </details>
 
