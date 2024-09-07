@@ -8,7 +8,7 @@
 1. [TCP / (İletim Kontrol Protokolü)](#TCP)
 
 2. <details>
-   <summary>[IP / (İnternet Protokolü)](#IP)</summary>
+   <summary>IP / (İnternet Protokolü)</summary>
    
    - [IPv4 / (İnternet Protokolü Version 4)](#IPv4)
    - [IPv6 / (İnternet Protokolü Version 6)](#IPv6)
