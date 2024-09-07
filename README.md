@@ -131,8 +131,9 @@
 
 ### Level1
 
-<p align="center">
+<p align="center"><summary>
   <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level1.png" />
+</summary>
 </p>
 
 ### Level2
