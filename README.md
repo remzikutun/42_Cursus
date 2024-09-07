@@ -30,7 +30,12 @@
    
    </details>
 
-4. [Switch / (Ağ Anahtarı)](#Switch)
+4. <details>
+   <summary>Switch / (Ağ Anahtarı)</summary>
+   
+    - [Switch / (Ağ Anahtarı)](#Switch)
+  
+</details>
 
 5. [Router / (Yönlendirici)](#Router)
 
