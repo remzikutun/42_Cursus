@@ -213,7 +213,9 @@
 
 <details>
   <summary>Level10</summary>
+  
   ###Level10
+  
   <p align="center">
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level10.png" />
   </p>
