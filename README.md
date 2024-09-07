@@ -129,12 +129,12 @@
 
 ## Leveller
 <details><summary>
-### Level1
+### Level1</summary>
 
 <p align="center">
   <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level1.png" />
 </p>
-</summary>
+
 </details>
 
 ### Level2
