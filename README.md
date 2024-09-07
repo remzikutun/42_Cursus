@@ -132,7 +132,7 @@
 
 ### Level1
 
-<div style="padding-left: 20px;">
+<div style="margin-left: 20px;">
   <details>
     <summary>Çözüm Fotoğrafı</summary></p>
 
@@ -233,12 +233,4 @@
   </p>
   </details>
 
-<div style="padding-left: 20px;">
-  <details>
-    <summary>Çözüm Fotoğrafı</summary>
-    
-    <p align="center">
-      <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level10.png" />
-    </p>
-  </details>
 </div>
