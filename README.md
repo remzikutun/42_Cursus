@@ -134,7 +134,7 @@
 
 
   <details>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;<summary1>&nbsp;&nbsp;&nbsp;&nbsp;Çözüm Fotoğrafı</summary1></p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;<summary>&nbsp;&nbsp;&nbsp;&nbsp;Çözüm Fotoğrafı</summary></p>
 
   <p align="center">
     <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level1.png" />
@@ -233,3 +233,11 @@
   </p>
   </details>
     
+
+
+<button onclick="document.getElementById('level1').style.display='block'">Çözüm Fotoğrafı</button>
+<div id="level1" style="display:none;">
+  <p align="center">
+    <img src="https://github.com/remzikutun/42_Cursus/blob/NetPractice/Level1.png" />
+  </p>
+</div>
